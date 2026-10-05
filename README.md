@@ -11,6 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ibrahim-rasyid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-ihsan-rasyid) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-ihsan-rasyid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrahimrasyid__)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
